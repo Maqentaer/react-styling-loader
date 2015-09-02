@@ -1,0 +1,5 @@
+# git
+.gitignore
+
+# npm errors
+npm-debug.log

@@ -1,0 +1,44 @@
+{
+  "name": "react-styling-loader",
+  "version": "0.0.1",
+  "description": "react-styling loader module for webpack",
+  "main": "index.js",
+  "dependencies": {
+    "extend": "^3.0.0",
+    "loader-utils": "^0.2.11"
+  },
+  "peerDependencies": {
+    "react-styling": "^1.2.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Use react-styling's tests\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Maqentaer/react-styling-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "react-styling",
+    "radium",
+    "loader",
+    "css",
+    "inline",
+    "style",
+    "react"
+  ],
+  "author": "Roman Glebsky <maqentaer@gmail.com>",
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/maqentaer/react-styling-loader/raw/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/maqentaer/react-styling-loader/issues",
+    "email": "maqentaer@gmail.com"
+  },
+  "homepage": "https://github.com/maqentaer/react-styling-loader#readme"
+}
